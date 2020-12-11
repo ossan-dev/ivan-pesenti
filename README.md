@@ -1,5 +1,29 @@
 ![ cover photo info](img/banner.png)
 
+## Tech Skills:
+
+### Expert
+
+<img src="https://github.com/ivan-pesenti/ivan-pesenti/blob/main/img%2Fcsharp.svg"/>
+
+- .NET Core
+- SQL Server
+- MVC
+- HTML
+- CSS
+
+### Improve
+
+- Javascript
+- TypeScript
+- Angular
+- Docker
+
+### Learn
+
+- UmbracoCMS
+- NodeJS
+
 <!--
 **ivan-pesenti/ivan-pesenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
