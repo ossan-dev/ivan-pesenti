@@ -1,20 +1,4 @@
-<head>
-    <link rel="stylesheet" href="style.css">
-</head>
-<!-- <div style="border: 3px solid #33FF00" align="center"> -->
-<div class="container" align="center">
-    <h2>Hi, I'm <span style="font-weight:bold; font-size:28px; color: #33FF00">Ivan</span>👋</h2>
-    <h2>I'm a self-taught <span style="font-weight:bold; font-style:italic; color: #33FF00">software developer</span> 👨‍💻 and <span style="font-weight:bold; font-style:italic; color: #33FF00">trainer</span> 👨‍🏫</h2>
-
-<div>
-    <img src="img/cover-photo.jpg">
-
-</div>
-<br>
-
-### 🌐 **Reach out to me:** ️
-
-</div>
+![ cover photo info](img/banner.png)
 
 <!--
 **ivan-pesenti/ivan-pesenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
