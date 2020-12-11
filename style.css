@@ -1,0 +1,13 @@
+.title-h3 h3,
+.title-center h3 {
+  font-weight: bold;
+  color: #51a351;
+  text-shadow: 2px 0 0 #d9c32e, -2px 0 0 #d9c32e, 0 2px 0 #d9c32e,
+    0 -2px 0 #d9c32e, 1px 1px #d9c32e, -1px -1px 0 #d9c32e, 1px -1px 0 #d9c32e,
+    -1px 1px 0 #d9c32e;
+}
+
+.container {
+  border: 3px solid #33ff00;
+  text-align: center;
+}
