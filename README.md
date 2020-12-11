@@ -42,7 +42,7 @@ live(me);
 
 ## Hobbies
 
-- ⚽Football
+- ⚽ Football
 - 🎿 Ski
 - 🏃‍♂️ Running
 - ⛰️ Trekking
@@ -51,6 +51,10 @@ live(me);
 - 🏟️ AC Milan supporter
 
 ## Footer section
+
+### Social icons
+
+![Twitter URL](https://img.shields.io/twitter/url?color=%2300acee&label=Twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FPesentiIvan)
 
 <!--
 **ivan-pesenti/ivan-pesenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
