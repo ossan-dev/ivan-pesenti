@@ -2,7 +2,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <!-- <div style="border: 3px solid #33FF00" align="center"> -->
-<div class="container">
+<div class="container" align="center">
     <h2>Hi, I'm <span style="font-weight:bold; font-size:28px; color: #33FF00">Ivan</span>👋</h2>
     <h2>I'm a self-taught <span style="font-weight:bold; font-style:italic; color: #33FF00">software developer</span> 👨‍💻 and <span style="font-weight:bold; font-style:italic; color: #33FF00">trainer</span> 👨‍🏫</h2>
 
