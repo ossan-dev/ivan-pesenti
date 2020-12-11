@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+    <h2>Hi, I'm <strong>Ivan</strong>👋</h2>
+    <h2>I'm a self-taught software developer and trainer</h2>
+</div>
 
 <!--
 **ivan-pesenti/ivan-pesenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
