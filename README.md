@@ -52,9 +52,11 @@ live(me);
 
 ## Footer section
 
-### Social icons
+### Reach me out
 
-![Twitter URL](https://img.shields.io/twitter/url?color=%2300acee&label=Twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FPesentiIvan)
+[<img src="https://img.shields.io/static/v1?label=twitter&message=ivan pesenti&color=00acee&logo=twitter&style=for-the-badge"/>](https://twitter.com/PesentiIvan)
+
+[<img src="https://img.shields.io/static/v1?label=FACEBOOK&message=ivan pesenti&color=#3b5998&logo=facebook&style=for-the-badge"/>](https://www.facebook.com/ivan.pesenti.52/PesentiIvan)
 
 <!--
 **ivan-pesenti/ivan-pesenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
