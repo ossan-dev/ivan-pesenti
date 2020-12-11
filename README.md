@@ -15,14 +15,11 @@
 
 ### 🌐 **Reach out to me:** ️
 
-<!-- <img src="https://img.shields.io/badge/LinkedIn-karthik--nayak24-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>
+<!-- <img src="https://img.shields.io/badge/LinkedIn-karthik--nayak24-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>-->
 
 ![Twitter URL](https://img.shields.io/twitter/url?color=%2300acee&label=ivan-pesenti&logo=twitter&logoColor=%2300acee&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FPesentiIvan)
 
-![Twitter URL](https://img.shields.io/twitter/url?color=00acee&label=IVAN-PESENTI&logo=twitter&style=for-the-badge&message=custom&url=https%3A%2F%2Ftwitter.com%2FPesentiIvan)
-
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=00acee&label=IVAN-PESENTI&logo=twitter&message=custom&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FPesentiIvan"> -->
-<img alt="Twitter URL" src="https://img.shields.io/static/v1?label=Tweet&message=IVAN-PESENTI&color=00ACEE&style=for-the-badge&logo=twitter&url=https%3A%2F%2Ftwitter.com%2FPesentiIvan">
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=00acee&label=IVAN-PESENTI&logo=twitter&message=custom&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FPesentiIvan">
 
 <!-- [<img src="https://img.shields.io/badge/Gmail-karunayak63@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
 [<img src="https://img.shields.io/badge/Github-karthikNayak024-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
