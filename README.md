@@ -56,9 +56,11 @@ live(me);
 
 <!-- [<img src="https://img.shields.io/static/v1?label=twitter&message=ivan pesenti&color=00acee&logo=twitter&style=for-the-badge"/>](https://twitter.com/PesentiIvan) -->
 
-[<img src="https://img.shields.io/twitter/url?label=twitter&message=ivan pesenti&color=00acee&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FPesentiIvan"/>](https://twitter.com/PesentiIvan)
+[<img src="https://img.shields.io/static/v1?label=twitter&message=ivan-pesenti&style=for-the-badge&color=00acee&logo=twitter"/>](https://twitter.com/PesentiIvan)
 
 [<img src="https://img.shields.io/badge/LinkedIn-karthik--nayak24-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>](https://twitter.com/PesentiIvan)
+
+[<img src="img\facebook.svg" width="20"/>](https://twitter.com/PesentiIvan)
 
 <!-- [<img src="https://img.shields.io/badge/Gmail-karunayak63@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
 [<img src="https://img.shields.io/badge/Github-karthikNayak024-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
