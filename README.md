@@ -54,18 +54,15 @@ live(me);
 
 ### Reach me out
 
-<!-- [<img src="https://img.shields.io/static/v1?label=twitter&message=ivan pesenti&color=00acee&logo=twitter&style=for-the-badge"/>](https://twitter.com/PesentiIvan) -->
+[<img src="https://img.shields.io/static/v1?label=twitter&message=ivan-pesenti&style=for-the-badge&color=1DA1F2&logo=twitter"/>](https://twitter.com/PesentiIvan)
 
-[<img src="https://img.shields.io/static/v1?label=twitter&message=ivan-pesenti&style=for-the-badge&color=00acee&logo=twitter"/>](https://twitter.com/PesentiIvan)
+[<img src="https://img.shields.io/static/v1?label=facebook&message=ivan-pesenti&style=for-the-badge&color=1877F2&logo=Facebook"/>](https://www.facebook.com/ivan.pesenti.52/)
 
-[<img src="https://img.shields.io/badge/LinkedIn-karthik--nayak24-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>](https://twitter.com/PesentiIvan)
+[<img src="https://img.shields.io/static/v1?label=instagram&message=ivan-pesenti&style=for-the-badge&color=E4405F&logo=Instagram"/>](https://www.instagram.com/ivan_pesenti/?hl=it)
 
-[<img src="img\facebook.svg" width="20"/>](https://twitter.com/PesentiIvan)
+[<img src="https://img.shields.io/static/v1?label=gmail&message=ivan-pesenti&style=for-the-badge&color=D14836&logo=Gmail"/>](mailto:ivan.pesenti.dev@gmail.com?subject=Mail%20from%20GitHub)
 
-<!-- [<img src="https://img.shields.io/badge/Gmail-karunayak63@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
-[<img src="https://img.shields.io/badge/Github-karthikNayak024-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
-[<img src="https://img.shields.io/badge/Stackoverflow-karthik--nayak-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow]
-[<img src="https://img.shields.io/badge/Twitter-@KarthikNayak98-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter] -->
+[<img src="https://img.shields.io/static/v1?label=linkedin&message=ivan-pesenti&style=for-the-badge&color=0077B5&logoColor=0077B5&logo=LinkedIn"/>](https://www.linkedin.com/in/ivan-pesenti-735232119/)
 
 <!--
 **ivan-pesenti/ivan-pesenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
