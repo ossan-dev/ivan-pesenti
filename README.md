@@ -64,6 +64,8 @@ live(me);
 
 [<img src="https://img.shields.io/static/v1?label=linkedin&message=ivan-pesenti&style=for-the-badge&color=0077B5&logoColor=0077B5&logo=LinkedIn"/>](https://www.linkedin.com/in/ivan-pesenti-735232119/)
 
+![Visitor Count](https://profile-counter.glitch.me/ivan-pesenti/count.svg)
+
 <!--
 **ivan-pesenti/ivan-pesenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
