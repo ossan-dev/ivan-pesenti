@@ -12,8 +12,8 @@
 <h2 align="center">About me</h2>
 <table align="center">
     <thead>
-        <th><p align="middle">Daily routine</p></th>
-        <th><p align="middle">Hobbies</p></th>
+        <th><span align="middle">Daily routine</span></th>
+        <th><span align="middle">Hobbies</span></th>
     </thead>
     <tbody>
         <tr>
