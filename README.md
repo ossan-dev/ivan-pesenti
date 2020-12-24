@@ -45,6 +45,8 @@ live(me);
 
 </div>
 
+[<img src="https://img.shields.io/static/v1?label=twitter&message= &style=for-the-badge&color=1DA1F2&logo=twitter"/>](https://twitter.com/PesentiIvan)
+
 <!--
 **ivan-pesenti/ivan-pesenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
