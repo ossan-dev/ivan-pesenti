@@ -40,15 +40,18 @@ const live = (me) => {
 live(me);
 ```
 
-## Hobbies
-
-- ⚽ Football
-- 🎿 Ski
-- 🏃‍♂️ Running
-- ⛰️ Trekking
-- 🏊‍♂️ Swimming
-- 🏍️ Riding
-- 🏟️ AC Milan supporter
+<div align="right">
+<h2>Hobbies</h2> 
+<ul>
+<li>⚽ Football</li>
+<li>🎿 Ski</li>
+<li>🏃‍♂️ Running</li>
+<li>⛰️ Trekking</li>
+<li>🏊‍♂️ Swimming</li>
+<li>🏍️ Riding</li>
+<li>🏟️ AC Milan supporter</li>
+</ul>
+</div>
 
 ## Footer section
 
