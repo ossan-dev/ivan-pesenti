@@ -59,7 +59,7 @@
     <tbody>
         <tr>
             <td>
-            <a href="https://twitter.com/PesentiIvan"><img width="28px" src="./img/icons/twitter.svg"/></a></td>
+            <a target="_blank" href="https://twitter.com/PesentiIvan"><img width="28px" src="./img/icons/twitter.svg"/></a></td>
             <td>row 1 column 2</td>
         </tr>        
     </tbody>
