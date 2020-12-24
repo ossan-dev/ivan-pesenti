@@ -1,28 +1,25 @@
 ![ cover photo info](img/banner.png)
 
-## Tech Skills:
+<h2 align="center">My skillset:</h2>
 
-### Expert
+<div align="center">
 
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=black)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)  
-![C#](https://img.shields.io/badge/C%20Sharp%20-%2323912.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=black)
-![MS SQL Server](https://img.shields.io/badge/SQL%20Server%20-%23CC2927.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=black)  
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20-%235C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=black)
+|                                                                                                                                                                                                                                                                                                                                                                                                                                               Expert                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                          Improve                                                                                                                                                                                                                                          |                                                                                                                   Learn                                                                                                                   |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=black) ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black) ![C#](https://img.shields.io/badge/C%20Sharp%20-%2323912.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=black) <br> ![MS SQL Server](https://img.shields.io/badge/SQL%20Server%20-%23CC2927.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=black) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20-%235C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=black) | ![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=Angular&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=for-the-badge&logo=TypeScript&logoColor=black)<br> ![Docker](https://img.shields.io/badge/Docker%20-%232496ED.svg?&style=for-the-badge&logo=Docker&logoColor=black) ![Node.Js](https://img.shields.io/badge/Node.Js%20-%23339933.svg?&style=for-the-badge&logo=Node.Js&logoColor=black) | ![Umbraco](https://img.shields.io/badge/Umbraco%20-%2300BEC1.svg?&style=for-the-badge&logo=Umbraco&logoColor=black) <br> ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=black) |
 
-### Improve
+</div>
 
-![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=Angular&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=for-the-badge&logo=TypeScript&logoColor=black)  
-![Docker](https://img.shields.io/badge/Docker%20-%232496ED.svg?&style=for-the-badge&logo=Docker&logoColor=black)
-![Node.Js](https://img.shields.io/badge/Node.Js%20-%23339933.svg?&style=for-the-badge&logo=Node.Js&logoColor=black)
-
-### Learn
-
-![Umbraco](https://img.shields.io/badge/Umbraco%20-%2300BEC1.svg?&style=for-the-badge&logo=Umbraco&logoColor=black)
-![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=black)
+<div align="right">
+<h2>Hobbies</h2> 
+<p>⚽ Football</p>
+<p>🎿 Ski</p>
+<p>🏃‍♂️ Running</p>
+<p>⛰️ Trekking</p>
+<p>🏊‍♂️ Swimming</p>
+<p>🏍️ Riding</p>
+<p>🏟️ AC Milan supporter</p>
+</div>
 
 ## My daily routine
 
@@ -32,26 +29,13 @@ const live = (me) => {
     console.log("Well done!!");
     code();
   } else {
-    console.log("Stupid!! Enjoy life for what u got and obviuosly code!");
+    console.log("Stupid!! Enjoy life and obviuosly code!");
     code();
   }
 };
 
 live(me);
 ```
-
-<div align="right">
-<h2>Hobbies</h2> 
-<ul>
-<li>⚽ Football</li>
-<li>🎿 Ski</li>
-<li>🏃‍♂️ Running</li>
-<li>⛰️ Trekking</li>
-<li>🏊‍♂️ Swimming</li>
-<li>🏍️ Riding</li>
-<li>🏟️ AC Milan supporter</li>
-</ul>
-</div>
 
 ## Footer section
 
