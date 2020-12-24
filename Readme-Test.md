@@ -1,5 +1,5 @@
-<table border="0">
-    <thead>
+<table style="border: 0">
+    <thead style="border: 0">
         <th>colum1</th>
         <th>colum1</th>
     </thead>

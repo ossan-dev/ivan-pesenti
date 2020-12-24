@@ -51,6 +51,20 @@
 
 </div>
 
+<table align="center">
+    <thead>
+        <th>Reach me out</th>
+        <th>Github profile visitors count</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+            <a href="https://twitter.com/PesentiIvan"><img width="28px" src="./img/icons/twitter.svg"/></a></td>
+            <td>row 1 column 2</td>
+        </tr>        
+    </tbody>
+</table>
+
 <!--
 **ivan-pesenti/ivan-pesenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
