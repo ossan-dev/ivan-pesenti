@@ -59,7 +59,31 @@
     <tbody>
         <tr>
             <td>
-            <a href="https://twitter.com/PesentiIvan" target="_blank"><img width="28px" src="./img/icons/twitter.svg"/></a></td>
+            <a href="https://twitter.com/PesentiIvan">
+              <img width="28px" src="./img/icons/twitter.svg"/>
+              </a>
+              <a href="https://www.linkedin.com/in/ivan-pesenti-735232119/">
+              <img width="28px" src="./img/icons/linkedin.svg"/>
+              </a>
+              <a href="https://www.facebook.com/ivan.pesenti.52/">
+              <img width="28px" src="./img/icons/facebook.svg"/>
+              </a>
+              <a href="https://www.instagram.com/ivan_pesenti/?hl=it">
+              <img width="28px"  src="./img/icons/instagram.svg"/>
+              </a>
+              <a href="mailto:ivan.pesenti.dev@gmail.com?subject=Mail%20from%20GitHub">
+              <img width="28px"  src="./img/icons/gmail.svg"/>
+              </a>
+              <a href="https://discordapp.com/users/750370897105518644">
+              <img width="28px"  src="./img/icons/discord.svg"/>
+              </a>
+              <a href="https://join.slack.com/t/newworkspace-pyr4305/shared_invite/zt-kjt2z3w1-jU1zs4Cn41wCKQoBFKO~SA">
+              <img width="28px"  src="./img/icons/slack.svg"/>
+              </a>
+              <a href="https://join.skype.com/invite/mhebFNY9SEsu">
+              <img width="28px"  src="./img/icons/skype.svg"/>
+              </a>
+              </td>
             <td>row 1 column 2</td>
         </tr>        
     </tbody>
