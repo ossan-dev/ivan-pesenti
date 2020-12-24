@@ -1,6 +1,6 @@
 ![ cover photo info](img/banner.png)
 
-<h2 align="center">My skillset:</h2>
+<h2 align="center">My skillset</h2>
 
 <div align="center">
 
@@ -10,11 +10,10 @@
 
 </div>
 <br>
-<br>
 <table align="center">
     <thead>
-        <th><h3>Daily routine</h3></th>
-        <th><h3>Hobbies</h3></th>
+        <th><h4 align="center">Daily routine</h4></th>
+        <th><h4 align="center">Hobbies</h4></th>
     </thead>
     <tbody>
         <tr>
