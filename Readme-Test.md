@@ -1,23 +1,24 @@
-| Tech Skills    | My daily routine | Hobbies |
-| :------------- | :--------------: | ------: |
-| Row 1 Column 1 |
-
-````javascript
-
-const live = (me) => {
-if (!me.sad) {
-console.log("Well done!!");
-code();
-} else {
-console.log("Stupid!! Enjoy life for what u got and obviuosly code!");
-code();
-}
-};
-
-live(me);
-
-```| Row 1 Column 3 |
-
-````
-
-|
+<table>
+    <thead>
+        <th>colum1</th>
+        <th>colum1</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>row 1 column 1</td>
+            <td>row 1 column 2</td>
+        </tr>     
+        <tr>
+            <td>row 2 column 1</td>
+            <td>row 2 column 2</td>
+        </tr>     
+        <tr>
+            <td>row 3 column 1</td>
+            <td>row 3 column 2</td>
+        </tr>     
+        <tr>
+            <td>row 4 column 1</td>
+            <td>row 4 column 2</td>
+        </tr>        
+    </tbody>
+</table>
