@@ -44,54 +44,48 @@
 <div align="center">
 
 <h2 align="center">Social</h2>
-
-| Reach me out                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                              Github profile visitors count |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------: |
-| [<img src="https://img.shields.io/static/v1?message=%20&logo=twitter&color=000000&label=%20"/>](https://twitter.com/PesentiIvan) [<img src="https://img.shields.io/static/v1?message=%20&color=000000&logoColor=0077B5&logo=LinkedIn&label=%20"/>](https://www.linkedin.com/in/ivan-pesenti-735232119/) [<img src="https://img.shields.io/static/v1?message=%20&color=000000&logo=Facebook&label=%20"/>](https://www.facebook.com/ivan.pesenti.52/) [<img src="https://img.shields.io/static/v1?message=%20&color=000000&logo=Instagram&label=%20"/>](https://www.instagram.com/ivan_pesenti/?hl=it) [<img src="https://img.shields.io/static/v1?message=%20&color=000000&logo=Gmail&label=%20"/>](mailto:ivan.pesenti.dev@gmail.com?subject=Mail%20from%20GitHub) [<img src="https://img.shields.io/static/v1?message=%20&color=000000&logo=Discord&label=%20"/>](https://discordapp.com/users/750370897105518644) [<img src="https://img.shields.io/static/v1?message=%20&color=000000&logo=Slack&logoColor=4A154B&label=%20"/>](https://join.slack.com/t/newworkspace-pyr4305/shared_invite/zt-kjt2z3w1-jU1zs4Cn41wCKQoBFKO~SA) [<img src="https://img.shields.io/static/v1?message=%20&color=000000&logo=Skype&logoColor=00AFF0&label=%20"/>](https://join.skype.com/invite/mhebFNY9SEsu) | ![Visitor Count](https://profile-counter.glitch.me/ivan-pesenti/count.svg) |
-
-</div>
-
-<table align="center">
-    <thead>
-        <th>Reach me out</th>
-        <th>Github profile visitors count</th>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-            <a href="https://twitter.com/PesentiIvan">
-              <img width="28px" src="./img/icons/twitter.svg"/>
-              </a>
-              <a href="https://www.linkedin.com/in/ivan-pesenti-735232119/">
-              <img width="28px" src="./img/icons/linkedin.svg"/>
-              </a>
-              <a href="https://www.facebook.com/ivan.pesenti.52/">
-              <img width="28px" src="./img/icons/facebook.svg"/>
-              </a>
-              <a href="https://www.instagram.com/ivan_pesenti/?hl=it">
-              <img width="28px"  src="./img/icons/instagram.svg"/>
-              </a>
-              <a href="mailto:ivan.pesenti.dev@gmail.com?subject=Mail%20from%20GitHub">
-              <img width="28px"  src="./img/icons/gmail.svg"/>
-              </a>
-              <a href="https://discordapp.com/users/750370897105518644">
-              <img width="28px"  src="./img/icons/discord.svg"/>
-              </a>
-              <a href="https://join.slack.com/t/newworkspace-pyr4305/shared_invite/zt-kjt2z3w1-jU1zs4Cn41wCKQoBFKO~SA">
-              <img width="28px"  src="./img/icons/slack.svg"/>
-              </a>
-              <a href="https://join.skype.com/invite/mhebFNY9SEsu">
-              <img width="28px"  src="./img/icons/skype.svg"/>
-              </a>
-              </td>
-            <td>
-                <a href="https://profile-counter.glitch.me/ivan-pesenti/count.svg">
-                    <img src="https://profile-counter.glitch.me/ivan-pesenti/count.svg" alt="img of number of profile's visitors"/>
+    <table align="center">
+        <thead>
+            <th>Reach me out</th>
+            <th>Github profile visitors count</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                <a href="https://twitter.com/PesentiIvan">
+                <img width="28px" src="./img/icons/twitter.svg"/>
                 </a>
-            </td>
-        </tr>        
-    </tbody>
-</table>
+                <a href="https://www.linkedin.com/in/ivan-pesenti-735232119/">
+                <img width="28px" src="./img/icons/linkedin.svg"/>
+                </a>
+                <a href="https://www.facebook.com/ivan.pesenti.52/">
+                <img width="28px" src="./img/icons/facebook.svg"/>
+                </a>
+                <a href="https://www.instagram.com/ivan_pesenti/?hl=it">
+                <img width="28px"  src="./img/icons/instagram.svg"/>
+                </a>
+                <a href="mailto:ivan.pesenti.dev@gmail.com?subject=Mail%20from%20GitHub">
+                <img width="28px"  src="./img/icons/gmail.svg"/>
+                </a>
+                <a href="https://discordapp.com/users/750370897105518644">
+                <img width="28px"  src="./img/icons/discord.svg"/>
+                </a>
+                <a href="https://join.slack.com/t/newworkspace-pyr4305/shared_invite/zt-kjt2z3w1-jU1zs4Cn41wCKQoBFKO~SA">
+                <img width="28px"  src="./img/icons/slack.svg"/>
+                </a>
+                <a href="https://join.skype.com/invite/mhebFNY9SEsu">
+                <img width="28px"  src="./img/icons/skype.svg"/>
+                </a>
+                </td>
+                <td>
+                    <a href="https://profile-counter.glitch.me/ivan-pesenti/count.svg">
+                        <img src="https://profile-counter.glitch.me/ivan-pesenti/count.svg" alt="img of number of profile's visitors"/>
+                    </a>
+                </td>
+            </tr>        
+        </tbody>
+    </table>
+</div>
 
 <!--
 **ivan-pesenti/ivan-pesenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
