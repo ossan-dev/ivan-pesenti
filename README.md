@@ -112,7 +112,7 @@
         <tbody>
             <tr>
                 <td>
-                <a href="https://twitter.com/PesentiIvan">
+                <a href="https://twitter.com/PesentiIvan" style="margin-right: 50px">
                     <img width="28px" src="./img/icons/twitter.svg" alt="twitter icon"/>
                 </a>
                 <a href="https://www.linkedin.com/in/ivan-pesenti-735232119/">
