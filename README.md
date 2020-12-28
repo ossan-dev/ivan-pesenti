@@ -84,7 +84,7 @@
               <img width="28px"  src="./img/icons/skype.svg"/>
               </a>
               </td>
-            <td>row 1 column 2</td>
+            <td><div>![Visitor Count](https://profile-counter.glitch.me/ivan-pesenti/count.svg)</div></td>
         </tr>        
     </tbody>
 </table>
