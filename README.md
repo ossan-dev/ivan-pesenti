@@ -84,7 +84,11 @@
               <img width="28px"  src="./img/icons/skype.svg"/>
               </a>
               </td>
-            <td><div>![Visitor Count](https://profile-counter.glitch.me/ivan-pesenti/count.svg)</div></td>
+            <td>
+                <a href="https://profile-counter.glitch.me/ivan-pesenti/count.svg">
+                    <img src="https://profile-counter.glitch.me/ivan-pesenti/count.svg" alt="img of number of profile's visitors"/>
+                </a>
+            </td>
         </tr>        
     </tbody>
 </table>
