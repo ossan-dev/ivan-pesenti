@@ -9,6 +9,22 @@
 | ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=black) ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black) ![C#](https://img.shields.io/badge/C%20Sharp%20-%2323912.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=black) <br> ![MS SQL Server](https://img.shields.io/badge/SQL%20Server%20-%23CC2927.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=black) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20-%235C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=black) | ![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=Angular&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=for-the-badge&logo=TypeScript&logoColor=black)<br> ![Docker](https://img.shields.io/badge/Docker%20-%232496ED.svg?&style=for-the-badge&logo=Docker&logoColor=black) ![Node.Js](https://img.shields.io/badge/Node.Js%20-%23339933.svg?&style=for-the-badge&logo=Node.Js&logoColor=black) | ![Umbraco](https://img.shields.io/badge/Umbraco%20-%2300BEC1.svg?&style=for-the-badge&logo=Umbraco&logoColor=black) <br> ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=black) |
 
 </div>
+
+<table align="center">
+    <thead>
+        <th><span align="middle">Expert</span></th>
+        <th><span align="middle">Improve</span></th>
+        <th><span align="middle">Learn</span></th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a><img  src=""/></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 <h2 align="center">About me</h2>
 <table align="center">
     <thead>
@@ -53,28 +69,28 @@
             <tr>
                 <td>
                 <a href="https://twitter.com/PesentiIvan">
-                <img width="28px" src="./img/icons/twitter.svg"/>
+                    <img width="28px" src="./img/icons/twitter.svg" alt="twitter icon"/>
                 </a>
                 <a href="https://www.linkedin.com/in/ivan-pesenti-735232119/">
-                <img width="28px" src="./img/icons/linkedin.svg"/>
+                    <img width="28px" src="./img/icons/linkedin.svg" alt="linkedin icon"/>
                 </a>
                 <a href="https://www.facebook.com/ivan.pesenti.52/">
-                <img width="28px" src="./img/icons/facebook.svg"/>
+                    <img width="28px" src="./img/icons/facebook.svg" alt="facebook icon"/>
                 </a>
                 <a href="https://www.instagram.com/ivan_pesenti/?hl=it">
-                <img width="28px"  src="./img/icons/instagram.svg"/>
+                    <img width="28px"  src="./img/icons/instagram.svg" alt="instagram icon"/>
                 </a>
                 <a href="mailto:ivan.pesenti.dev@gmail.com?subject=Mail%20from%20GitHub">
-                <img width="28px"  src="./img/icons/gmail.svg"/>
+                    <img width="28px"  src="./img/icons/gmail.svg" alt="gmail icon"/>
                 </a>
                 <a href="https://discordapp.com/users/750370897105518644">
-                <img width="28px"  src="./img/icons/discord.svg"/>
+                    <img width="28px"  src="./img/icons/discord.svg" alt="discord icon"/>
                 </a>
                 <a href="https://join.slack.com/t/newworkspace-pyr4305/shared_invite/zt-kjt2z3w1-jU1zs4Cn41wCKQoBFKO~SA">
-                <img width="28px"  src="./img/icons/slack.svg"/>
+                    <img width="28px"  src="./img/icons/slack.svg" alt="slack icon"/>
                 </a>
                 <a href="https://join.skype.com/invite/mhebFNY9SEsu">
-                <img width="28px"  src="./img/icons/skype.svg"/>
+                    <img width="28px"  src="./img/icons/skype.svg" alt="skype icon"/>
                 </a>
                 </td>
                 <td>
