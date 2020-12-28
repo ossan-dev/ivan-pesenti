@@ -25,7 +25,7 @@
                         <img  src="https://img.shields.io/badge/C%20Sharp%20-%2323912.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=black" alt="csharp badge" />
                     </a>
                 </td>
-                <td>
+                <td align="center">
                     <a>
                         <img  src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=Angular&logoColor=black" alt="angular badge" />
                     </a>
@@ -112,27 +112,27 @@
         <tbody>
             <tr>
                 <td>
-                <a href="https://twitter.com/PesentiIvan" style="margin-right: 50px">
+                <a href="https://twitter.com/PesentiIvan">
                     <img width="28px" src="./img/icons/twitter.svg" alt="twitter icon"/>
-                </a>
+                </a>&nbsp;&nbsp;
                 <a href="https://www.linkedin.com/in/ivan-pesenti-735232119/">
                     <img width="28px" src="./img/icons/linkedin.svg" alt="linkedin icon"/>
-                </a>
+                </a>&nbsp;&nbsp;
                 <a href="https://www.facebook.com/ivan.pesenti.52/">
                     <img width="28px" src="./img/icons/facebook.svg" alt="facebook icon"/>
-                </a>
+                </a>&nbsp;&nbsp;
                 <a href="https://www.instagram.com/ivan_pesenti/?hl=it">
                     <img width="28px"  src="./img/icons/instagram.svg" alt="instagram icon"/>
-                </a>
+                </a>&nbsp;&nbsp;
                 <a href="mailto:ivan.pesenti.dev@gmail.com?subject=Mail%20from%20GitHub">
                     <img width="28px"  src="./img/icons/gmail.svg" alt="gmail icon"/>
-                </a>
+                </a>&nbsp;&nbsp;
                 <a href="https://discordapp.com/users/750370897105518644">
                     <img width="28px"  src="./img/icons/discord.svg" alt="discord icon"/>
-                </a>
+                </a>&nbsp;&nbsp;
                 <a href="https://join.slack.com/t/newworkspace-pyr4305/shared_invite/zt-kjt2z3w1-jU1zs4Cn41wCKQoBFKO~SA">
                     <img width="28px"  src="./img/icons/slack.svg" alt="slack icon"/>
-                </a>
+                </a>&nbsp;&nbsp;
                 <a href="https://join.skype.com/invite/mhebFNY9SEsu">
                     <img width="28px"  src="./img/icons/skype.svg" alt="skype icon"/>
                 </a>
