@@ -1,4 +1,4 @@
-![ cover photo info](img/banner-new.png)
+![ cover photo info](img/banner-new.jpg)
 
 <h2 align="center">My skillset</h2>
 
