@@ -42,7 +42,7 @@
             <tr>
                 <td>
                     <a>
-                        <img  src="https://img.shields.io/badge/SQL%20Server%20-%23CC2927.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=black" alt="sql server badge" />
+                        <img  src="https://img.shields.io/badge/SQL%20Server%20-%23CC2927.svg?&style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=black" alt="sql server badge" />
                     </a>
                     <a>
                         <img  src="https://img.shields.io/badge/Visual%20Studio%20-%235C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=black" alt="visual studio badge" />
