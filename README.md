@@ -61,7 +61,7 @@
                 </td>
                 <td>
                     <a>
-                        <img  src="https://img.shields.io/badge/Python%20-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=black" alt="python badge" />
+                        <img  src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=black" alt="c++ badge" />
                     </a>
                 </td>
             </tr>
